@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zuzu Geidatzis!
-- 👀 I’m interested in ML, AI, VR, permaculture, sustainability, travel, yoga, cooking and natural health/wellness.
+- 👋 Hi, I’m Lex Geidatzis!
+- 👀 I’m interested in Fullstack Development, travel, yoga, cooking, and music.
 - 🌱 I’m currently learning Python, HTML and CSS.
-- 💞️ I’m looking to collaborate on projects that are fun and/or make a change in the world.
-- 📫 How to reach me: zuzu.geidatzis@gmail.com
+- 💞️ I’m looking to collaborate on projects that are fun, unique and make a positive impact on the world. 
+- 📫 How to reach me: lex.geidatzis@gmail.com
 
 <!---
 zuzuzis/zuzuzis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
